@@ -72,3 +72,6 @@ typings/
 # Don't track transpiled files
 dist/
 docker-compose.yml
+
+# package lock
+package-lock.json
