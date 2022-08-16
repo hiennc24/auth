@@ -1,5 +1,5 @@
 {
-  "name": "@hiennc/auth",
+  "name": "@hiennc24/auth",
   "version": "1.0.2",
   "description": "Auth with JWT and Google, Facebook",
   "main": "lib/index.js",
@@ -48,5 +48,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/hiennc24/auth/issues"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
