@@ -1,6 +1,6 @@
 {
   "name": "@hiennc24/auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Auth with JWT and Google, Facebook",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -42,7 +42,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.5.2"
   },
   "publishConfig": {
